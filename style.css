@@ -1,0 +1,21 @@
+/* frontend/style.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #compressed-image-container {
+    margin-top: 20px;
+  }
+  
+  #progress {
+    margin-top: 20px;
+    width: 0;
+    height: 10px;
+    background-color: #4caf50;
+  }
+  
